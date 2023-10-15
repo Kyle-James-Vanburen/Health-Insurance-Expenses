@@ -4,7 +4,7 @@ Welcome to the Insurance Expenses Analysis project repository. In this analysis,
 
 ## Requirements & Dataset
 
-- **Tableau Dashboard:** Explore the visualizations on the [Insurance Expenses Tableau Public Dashboard](https://public.tableau.com/app/profile/arun.jangir245/viz/InsuranceExpenses_16339289829350/InsuranceExpenses).
+- **Tableau Dashboard:** Explore the visualizations on the [Insurance Expenses Tableau Public Dashboard](https://public.tableau.com/app/profile/kyle.vanburen/viz/InsuranceExpenses_16973314332000/Dashboard1?publish=yes).
 - **Dataset Source:** The dataset was obtained from Kaggle. Access the dataset [here](https://www.kaggle.com/datasets/arunjangir245/healthcare-insurance-expenses).
 - **CSV File Access:** Use the web version of Microsoft Excel to access the CSV files: [Excel Web Version](https://www.office.com/launch/excel?ui=en-US&rs=US&auth=2).
 
